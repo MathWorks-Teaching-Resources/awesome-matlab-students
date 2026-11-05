@@ -20,6 +20,7 @@ Are you a new MATLAB user seeking helpful tips and tricks? Are you a member of a
   - [Simulink and Python](#-simulink-and-python)
 - [Academic Discipline Specific Resources](#industrydiscipline-specific-resources-airplane-racing_car-robot-microscope)
 - [Student Programs and Competitions](#student-programs-trophy)
+  - [Competition Learning Paths](#-competition-learning-paths)
   - [Hackathons and Capstone Projects](#related-matlab-github-resources-for-students)
   - [Student Societies and Clubs](#resources-for-student-societies-and-student-clubs)
   - [Interactive Examples and Fun Animations](#interactive-and-fun-matlab-examples-including-cody)
@@ -185,6 +186,7 @@ Learn How to Use MATLAB and Simulink for Student Projects
 <li><a href="https://www.mathworks.com/academia/student-competitions/resources/aerospace.html">Aerospace</a></li>
 <li><a href="https://www.mathworks.com/academia/student-competitions/resources/robotics.html">Robotics</a></li>
 <li><a href="https://www.mathworks.com/academia/student-competitions/resources/mathematics.html">Mathematics</a></li>
+<li><a href="https://www.mathworks.com/academia/student-competitions/resources/uavs.html">UAV</a></li>  
 <li><a href="https://www.mathworks.com/academia/student-competitions/resources.html">All Student Project Tutorials</a></li>
 </ul></td>
 </tr>
@@ -716,6 +718,25 @@ Build your MATLAB and Simulink skills through project‑based learning with Math
 </div>
 
 [![Student Programs](Images/studentprograms.png)](https://www.mathworks.com/academia/students.html?s_tid=ln_acad_programs_overview)
+
+---
+
+### 🎯 Competition Learning Paths
+
+Preparing for a student competition? These learning paths collect documentation examples and video tutorials by topic and skill level, so you can build the skills your team needs.
+
+| Topic                          | Learning Path                                                                                                   |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| 🚗 ADAS                         | [Explore](https://www.mathworks.com/academia/student-competitions/resources/auto-drive.html)                    |
+| ✈️ Aerospace                   | [Explore](https://www.mathworks.com/academia/student-competitions/resources/aerospace.html)                     |
+| 🔋 Electric Vehicles            | [Explore](https://www.mathworks.com/academia/student-competitions/resources/electric-vehicles.html)             |
+| 🏎️ Internal Combustion Engines | [Explore](https://www.mathworks.com/academia/student-competitions/resources/internal-combustion-engines.html)   |
+| 📐 Mathematics                  | [Explore](https://www.mathworks.com/academia/student-competitions/resources/mathematics.html)                   |
+| 🤖 Robotics                     | [Explore](https://www.mathworks.com/academia/student-competitions/resources/robotics.html)                      |
+| 🛩️ UAV                         | [Explore](https://www.mathworks.com/academia/student-competitions/resources/uavs.html)                          |
+| 📡 Wireless Communications      | [Explore](https://www.mathworks.com/academia/student-competitions/resources/wireless-communications.html)       |
+
+👉 [See all Competition Learning Resources](https://www.mathworks.com/academia/student-competitions/resources.html)
 
 ---
 ## Related MATLAB GitHub Resources for Students
